@@ -1,13 +1,9 @@
 # Added unnecessary files to .gitignore
 
-Assignment 01/*
-Assignment 02/*
-Assignment 03/*
-UNIT-01/*
-UNIT-02/*
-UNIT-03/*
 Data-Analytics-Projects-in-python/*
 Unit-04-Version-Control/*
 
 # CSV files for datasets
 *.csv
+*.xlsx
+*.zip
